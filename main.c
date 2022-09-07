@@ -15,7 +15,7 @@ unsigned int i;
 while (1)
 {
 
-prompt1();
+prompt_user();
 
 command = read_command();
 
